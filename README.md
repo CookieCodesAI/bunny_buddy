@@ -16,7 +16,7 @@
 Gifs come from toffeecraft on itch.io: https://toffeecraft.itch.io/bunny-pixel-animations
 
 ### Usage
-In order to use the Bunny Buddy, you must download the gifs from toffeecraft on itch.io and place them in the gifs folder. 
+In order to use the Bunny Buddy, you must download the gifs from toffeecraft on itch.io and place them in a gifs folder created in the bunny_buddy directory. 
 
 In order to get the BunnyRun_flipped.gif you must follow the steps below
 #### 1. Install imagemagick
